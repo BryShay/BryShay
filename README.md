@@ -1,10 +1,10 @@
 Hi 👋 My name is Bryon Shayna
 =============================
 
-Application Consultant | Student | Future AWS Developer
+Senior Application Consultant | Student | Future AWS Developer
 -------------------------------------------------------
 
-I currently work as an Application Consultant for a CCaaS Company. I am actively enrolled in college working towards a degree in Cloud Engineering. I participate in the AWS Cloud Academy Learning path and my current focus is AWS developer associate certification this spring. I have enjoyed seeing how I can use python boto3 to create cloud instances and perform tasks. I love learning and spend any chance i can get trying to find a better way to solve a problem.
+I currently work as an Senior Application Consultant for a CCaaS Company. I am actively enrolled in college working towards a degree in Cloud Engineering. I participate in the AWS Cloud Academy Learning path and my current focus is AWS developer associate certification this spring. I have enjoyed seeing how I can use python boto3 to create cloud instances and perform tasks. I love learning and spend any chance i can get trying to find a better way to solve a problem.
 
 * 🌍  I'm based in Metro Detroit
 * ✉️  You can contact me at [Bryon.M.Shayna@gmail.com](mailto:Bryon.M.Shayna@gmail.com)
